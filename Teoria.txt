@@ -1,3 +1,20 @@
 Probando comandos de Git y GitHub
 
-hola mundo!!
+roll back = posibilidad de volver a una version anterior
+
+COMO FUNCIONA
+
+1) Computador: es este creamos , modificamos o eliminamos los archivos que necesitamos.
+2) Stage: aqui seleccionamos los archivos que queremos eventualmente subir a nuestro repositorio
+3) Commit: Como lo dice el nombre, comiteamos los cambios con un mensaje, paso previo al final
+4) Server: agremos los cambios al servidor de GitHub o servidor X.
+
+
+COMANDOS
+
+pwd = ver donde estamos ubicados
+
+git add(nombre)/git add . = agregar cambios 
+ 
+
+
