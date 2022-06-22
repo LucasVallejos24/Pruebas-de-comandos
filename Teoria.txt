@@ -15,6 +15,11 @@ COMANDOS
 pwd = ver donde estamos ubicados
 
 git add(nombre)/git add . = agregar cambios 
+
+rm = eliminar archivo del directorio
+
+git restore --staged (nombre) = quitar archivos con cambios del STAGED, luego de hacer "git add"
  
+git restore (nombre) = devuelve los archivos quitados del directorio
 
 
